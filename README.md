@@ -1,6 +1,14 @@
 
 ***
 
+# GNOME System Monitor
+
+![Breathe-utilities-system-monitor.svg](Breathe-utilities-system-monitor.svg) <!-- Change this icon depending on the operating system, theme used on the main machine or virtual machine !-->
+
+# By:
+
+![Gnomelogo.svg](Gnomelogo.svg)
+
 ### Top
 
 # `README.md`
@@ -25,11 +33,25 @@
 
 [07.0 - Contributing](#Contributing)
 
-[08.0 - About README](#About-README)
+[08.0 - Issues](#Issues)
 
-[09.0 - README Version history](#README-version-history)
+> [08.1 - Current issues](#Current-issues)
 
-[10.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+> [08.2 - Past issues](#Past-issues)
+
+> [08.3 - Past pull requests](#Past-pull-requests)
+
+> [08.4 - Active pull requests](#Active-pull-requests)
+
+[09.0 - Resources](#Resources)
+
+> [09.1 - Images](#Images)
+
+[10.0 - About README](#About-README)
+
+[11.0 - README Version history](#README-version-history)
+
+[12.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
 ***
 
@@ -40,7 +62,13 @@ The module for my life story project that contains my GNOME System Monitor scree
 
 ## About
 
-See above
+See above. This repository hosts all my daily GNOME System Monitor pictures. I currently use the System Monitor on Ubuntu 20.04 Focal Fossa (on my first full-Linux based laptop)
+
+These weekly pictures are to be used for progress monitoring, but can also be used as stock images.
+
+I started using the System Monitor on June 9th 2020 with the installation of Ubuntu on my new Dell XPS 13 laptop, the laptop that would finally replace Windows 10 for me, Windows 10 will now only be a secondary system for me.
+
+I originally wanted to install KDE and Fedora on my laptop, but I decided that I would try Ubuntu and GNOME first. I have repeatedly tried to switch to KDE, but I am unable to.
 
 ***
 
@@ -62,7 +90,7 @@ Unavailable
 
 Currently, I am the only contributer. Contributing is not allowed, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 40 commits (As of Thursday, October 15th 2020 at 6:53 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 88 commits (As of Wednesday, November 11th 2020 at 3:08 pm)
 
 > * 2. No other contributers.
 
@@ -72,7 +100,59 @@ Currently, I am the only contributer. Contributing is not allowed, as this is a 
 
 Contributing is not allowed for this project, as it is a personal project.
 
-[Click/tap here to view the contributing rules for this project](https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_System_Monitor/blob/master/CONTRIBUTING.md)
+[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
+
+***
+
+## Issues
+
+### Current issues
+
+None at the moment
+
+### Past issues
+
+None at the moment
+
+### Past pull requests
+
+None at the moment
+
+### Active pull requests
+
+None at the moment
+
+***
+
+## Resources
+
+Here are some other resources for this project:
+
+[Project language file](LANG.cpp)
+
+[GitLab link for the GNOME System Monitor](https://gitlab.gnome.org/GNOME/gnome-system-monitor)
+
+[Wikimedia collection of GNOME System Monitor images](https://commons.wikimedia.org/wiki/Category:GNOME_System_Monitor)
+
+[Wikipedia article on the GNOME System Monitor (redirects to: GNOME Core Applications)](https://en.wikipedia.org/wiki/GNOME_Core_Applications)
+
+[GNOME website](https://www.gnome.org/)
+
+### Images
+
+[GNOME System Monitor with the Breathe theme (SVG)](Breathe-utilities-system-monitor.svg)
+
+[GNOME System Monitor 2019 icon (SVG)](GNOME_System_Monitor_icon_2019.svg)
+
+[GNOME System Monitor with the Utilities theme (SVG)](Gnome-utilities-system-monitor.svg)
+
+[GNOME System Monitor with the Procman theme (SVG)](Procman.svg)
+
+[GNOME System Monitor utility icon (SVG)](Utilities-system-monitor.svg)
+
+[GNOME Logo (SVG)](Gnomelogo.svg)
+
+No other resources at the moment.
 
 ***
 
@@ -80,9 +160,9 @@ Contributing is not allowed for this project, as it is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Thursday, October 15th 2020 at 6:53 pm)`
+File version: `2 (Wednesday, November 11th 2020 at 3:08 pm)`
 
-Line count: `0,132`
+Line count: `0,240`
 
 ***
 
@@ -114,13 +194,41 @@ Version 1 (Thursday, October 15th 2020 at 6:53 pm)
 
 > * No other changes in version 1
 
-Version 2 (coming soon)
+Version 2 (Wednesday, November 11th 2020 at 3:08 pm)
+
+> Changes:
+
+> * Updated the about section
+
+> * Added the resources section
+
+> * Added release notes for v2
+
+> * Added template entries for v3 and v4
+
+> * Updated the file info section
+
+> * Updated the index
+
+> * Updated the contributers section
+
+> * No other changes in version 2
+
+Version 3 (coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
