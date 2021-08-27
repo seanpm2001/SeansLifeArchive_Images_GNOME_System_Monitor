@@ -1,0 +1,17 @@
+# Start of script
+
+# Linking to the repository this project relies on
+[submodule "GNOME/System-Monitor"]
+  path = /Repo2/GitHub/GNOME-System-Monitor/
+  url = https://github.com/GNOME/gnome-system-monitor
+  path = /Repo2/GitLab/GNOME-System-Monitor/
+  url = https://gitlab.gnome.org/GNOME/gnome-system-monitor
+ 
+# Submodule count: 1 (or 2, depending on how you count it)
+
+# File info
+# File type: .gitmodules submodule file (*.gitmodules)
+# File version: 1 (Thursday, August 26th 2021 at 7:27 pm)
+# Line count (including blank lines and compiler line): 18
+
+# End of script
