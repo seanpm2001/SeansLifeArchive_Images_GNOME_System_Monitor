@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2021). GNOME System Monitor progress and usage screenshots by Seanpm2001 for machine learning, entertainment, research, reference, and stock imagery [Data set]. https://doi.org/10.0000/00000
